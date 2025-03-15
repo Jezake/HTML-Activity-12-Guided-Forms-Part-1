@@ -1,4 +1,4 @@
-## HTML | Activity #15 (Guided): Forms (Part 1)
+## HTML | Activity #12 (Guided): Forms (Part 1)
 In this activity, we will create a **Workshop Registration Page** with the following content:
 
 ![final-output](assets/html-15--01-final-output.jpg)
